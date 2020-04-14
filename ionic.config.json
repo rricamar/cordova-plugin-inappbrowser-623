@@ -1,5 +1,7 @@
 {
   "name": "cordova-plugin-inappbrowser-623",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
